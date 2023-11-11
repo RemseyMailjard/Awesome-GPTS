@@ -1,17 +1,15 @@
-# 😎 Awesome GPTs (Agents) build by the Community! 
+# 😎 Awesome GPTs (Agents) built by the Community![![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 A curated list of awesome GPT models designed by the Community, organized by category. 
 This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information, and sample prompts.
 
-Please note, this repository is a community-driven project and may not list all existing GPT agents/ Contributions are welcome – feel free to add your own creations!
+Please note, this repository is a community-driven project and may not list all existing GPT agents. Contributions are welcome – feel free to add your own creations!
 
-**Disclaimer: Users should exercise caution and evaluate the agents before use. 
-Additionally, please note that some of these GPTs are still in the experimental test phase.**
-
+**Disclaimer: Users should exercise caution and evaluate the agents before use. Additionally, please note that some of these GPTs are still in the experimental test phase.**
 
 ## Table of Contents
+- [Cybersecurity GPT Models](#cybersecurity-gpt-models)
 - [Finance GPT Models](#finance-gpt-models)
-- Cybersecurity GPT Models
 - [Healthcare GPT Models](#healthcare-gpt-models)
 - [Automotive GPT Models](#automotive-gpt-models)
 - [Usage Instructions](#usage-instructions)
@@ -19,37 +17,62 @@ Additionally, please note that some of these GPTs are still in the experimental 
 - [License](#license)
 - [Contact](#contact)
 
+## AI GPT Models
+| Model Name | Description | Developer |
+|------------|-------------|-----------|
+| [ATT&CK Mate](https://chat.openai.com/g/g-fCIE7hCLx-att-ck-mate) | Ask me anything about the ATT&CK Knowledge Base. | [Developer Name](#) |
+## Cybersecurity GPT Models
+| Model Name | Description | Developer |
+|------------|-------------|-----------|
+| [ATT&CK Mate](https://chat.openai.com/g/g-fCIE7hCLx-att-ck-mate) | Ask me anything about the ATT&CK Knowledge Base. | [Developer Name](#) |
+| [Cyber Mentor](https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor) | Cybersecurity mentor teaching from the basics to advanced. | [Developer Name](#) |
+| [Cyber Security Tutor](https://chat.openai.com/g/g-0VZwWuTzR-cyber-security-tutor) | Quality Cyber Security Advice, Tricks, & Tips | [Developer Name](#) |
+| [CyberGuard](https://chat.openai.com/g/g-Rqg4CFv6o-cyber-guard) | Cybersecurity advisor for home and small businesses. | [Developer Name](#) |
+| [CyberGPT](https://chat.openai.com/g/g-GGqU669bx-cybergpt) | It provides the latest CVE details. | [Developer Name](#) |
+| [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis) | Drop in any files and I can help analyze and visualize your data. | [Developer Name](#) |
+| [Email Security Expert](https://chat.openai.com/g/g-KX6GdA8lV-email-security-expert) | Looking for email red flags so you don't have to! | [Developer Name](#) |
+| [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester) | A cybersec assistant for pentesting guidance. | [Developer Name](#) |
+| [Hacker Art](https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0) | Generate badass hacker art and profile pics. | [Developer Name](#) |
+| [Hacker News GPT](https://chat.openai.com/g/g-RfQI5RmAX-hacker-news-gpt) | Summarizes top Hacker News stories and comments daily or weekly, with precise search parameters. | [Developer Name](#) |
+| [HackTricksGPT](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt) | A knowledgeable cybersecurity professional. | [Developer Name](#) |
+| [IAC Code Guardian](https://chat.openai.com/g/g-nT849ZvCx-iac-code-guardian) | Introducing IAC Code Guardian- Your Trusted IaC Security Expert in Scanning Opentofu, Terrform, AWS Cloudformation, Pulumi, K8s Yaml & Dockerfile. | [Developer Name](#) |
+| [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect) | This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques. | [Developer Name](#) |
+| [Malware Rule Master](https://chat.openai.com/g/g-NGsw2zTeW-malware-rule-master) | Expert in malware analysis and Yara rules, using web sources for specifics. | [Developer Name](#) |
+| [Message Header Analyzer](https://chat.openai.com/g/g-IHl1UiMr6-message-header-analyzer) | Analyzes email headers for security insights, presenting data in a structured table view. | [Developer Name](#) |
+| [MITREGPT](https://chat.openai.com/g/g-IZ6k3S4Zs-mitregpt) | Feed me any input and I'll match it with the relevant MITRE ATT&CK techniques and tactics. | [Developer Name](#) |
+| [Pentest reporter](https://chat.openai.com/g/g-dtkGX8MrO-pentest-reporter) | Assists in writing detailed security report. | [Developer Name](#) |
+| [Privacy Guardian AI](https://chat.openai.com/g/g-gtV76JzWV-privacy-guardian-ai) | Expert in guiding GPT creation with a focus on privacy and security. | [Developer Name](#) |
+| [Smart Contract Audit Assistant](https://chat.openai.com/g/g-R4dNsj0fm-smart-contract-audit-assistant-by-keybox-ai) | Get your Ethereum and L2 EVMs smart contracts audited updated knowledge base of vulnerabilities and exploits. | [Developer Name](#) |
+| [Smart Contract Auditor](https://chat.openai.com/g/g-VRtUR3Jpv-smart-contract-auditor) | High-accuracy smart contract audit tool. | [Developer Name](#) |
+| [SOC Copilot](https://chat.openai.com/g/g-qvSadylbt-soc-copilot) | Cybersecurity expert with keyword-based guidance. | [Developer Name](#) |
+| [SourceCodeAnalysis](https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt) | Upload any project's source code (zip format), analysis all, answer any questions to get what you want. | [Developer Name](#) |
+| [SpamGuard Tutor](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor) | Spam detection expert and educator on spam prevention. | [Developer Name](#) |
+| [Squidshing](https://chat.openai.com/g/g-8JrlEnLEj-squidshing) | Analyzes emails for phishing risks. | [Developer Name](#) |
+| [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot) | A specialized GPT for the latest APT threat intelligence. | [Developer Name](#) |
+| [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling) | A GPT expert in conducting thorough threat modelling for system design and review. | [Developer Name](#) |
+| [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard) | Engagingly clarifies web security topics with interactive questions. | [Developer Name](#) |
+| [WhichSAT](https://chat.openai.com/g/g-s1W0bUvGs-whichsat) | Structured Analytic Techniques (SATs) used in intelligence analysis to aid in organizing and processing information. | [Developer Name](#) |
+| [WP secure guide](https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide) | Offers guidance on WordPress security best practices. | [Developer Name](#) |
+| [zkGPT](https://chat.openai.com/g/g-UKY6elM2U-zkgpt) | Explains and teaches zero-knowledge cryptography. | [Developer Name](#) |
+| [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt) | Your personal security tool… Happy h4cking! | [Developer Name](#) |
+
+
+
+
 ## Finance GPT Models
-| Model Name | Description | Model URL | Developer | LinkedIn URL | Sample Prompts |
-|------------|-------------|-----------|-----------|--------------|----------------|
-| GPT-Finance | Specialized in financial analysis and forecasts. | [Link](https://model-url.com/finance) | Jan Jansen | [Profile](https://www.linkedin.com/in/janjansen) | "What are the current trends in the stock market?" |
+| Model Name | Description | Developer |
+|------------|-------------|-----------|
+| [GPT-Finance](https://model-url.com/finance) | Specialized in financial analysis and forecasts. | [Jan Jansen](https://www.linkedin.com/in/janjansen) |
 
 ## Healthcare GPT Models
-| Model Name | Description | Model URL | Developer | LinkedIn URL | Sample Prompts |
-|------------|-------------|-----------|-----------|--------------|----------------|
-| GPT-Health | Focused on medical diagnostics and health advice. | [Link](https://model-url.com/health) | Erika de Vries | [Profile](https://www.linkedin.com/in/erikadevries) | "How do I interpret symptoms of flu vs COVID-19?" |
+| Model Name | Description | Developer |
+|------------|-------------|-----------|
+| [GPT-Health](https://model-url.com/health) | Focused on medical diagnostics and health advice. | [Erika de Vries](https://www.linkedin.com/in/erikadevries) |
 
 ## Automotive GPT Models
-| Model Name | Description | Model URL | Developer | LinkedIn URL | Sample Prompts |
-|------------|-------------|-----------|-----------|--------------|----------------|
-| GPT-Auto | Expertise in the automotive industry. | [Link](https://model-url.com/auto) | Lukas Müller | [Profile](https://www.linkedin.com/in/lukasmuller) | "What are the latest innovations in electric cars?" |
+| Model Name | Description | Developer |
+|------------|-------------|-----------|
+| [GPT-Auto](https://model-url.com/auto) | Expertise in the automotive industry. | [Lukas Müller](https://www.linkedin.com/in/lukasmuller) |
 
-## Usage Instructions
 
-Visit the Model URL for detailed instructions and best practices for each specific model.
-
-## Contributing
-
-We appreciate your contributions to this list. Please refer to CONTRIBUTING.md for guidelines on contributing new models or improvements.
-
-## License
-
-This project is licensed under [specify license]. See the LICENSE.md file for more details.
-
-## Contact
-
-For more information, please contact us at [insert contact information].
-
----
-
-This list is regularly updated to provide the most accurate and up-to-date information on our GPT models.
+(Note: The table continues in a similar format for the remaining models. Developer names and LinkedIn profiles are placeholders and should be replaced with actual information.)
