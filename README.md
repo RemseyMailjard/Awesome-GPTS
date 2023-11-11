@@ -24,9 +24,12 @@ Please note, this repository is a community-driven project and may not list all 
 | Image | GPT Model Name | Description | Developer | URL |
 |-------|----------------|-------------|-----------|-----|
 | <img src="https://files.oaiusercontent.com/file-oPqvEfbbS7vyXSQyUTllxSjr?se=2123-10-18T19%3A43%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da58277c7-11b2-4193-9a0a-5493077c3eb6.png&sig=c%2BLgNbNrMDOTJgF7igNLUZMcxaBIzQSAzMyQ8GWd5qI%3D" width="100px"> | [Power Platform Licensing Wizard 🧙‍♂️](https://chat.openai.com/g/g-OfPiOrDNw-power-platform-licensing-wizard) | Your expert in Power Platform licensing complexities | By flowkify.com | [Link](https://chat.openai.com/g/g-OfPiOrDNw-power-platform-licensing-wizard) |
+| <img src="https://files.oaiusercontent.com/file-3fKHVGOsiVLBUIvE4ZyL5bYS?se=2123-10-18T17%3A49%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D338d737a-31a9-4033-8f95-f9d6037ec31f.png&sig=IsZy89QwfZdMVNJ3q4qcR%2BanbfzBctDyiH0AdqcODVQ%3D" width="100px"> | [AI Product Manager](https://chat.openai.com/g/g-o1HPy1qR7-ai-product-manager) | Analyzes context to give detailed product advice. | By PAUL JOHNSON | [Link](https://chat.openai.com/g/g-o1HPy1qR7-ai-product-manager) |
 
 
-
+| Image | GPT Model Name | Description | Developer | URL |
+|-------|----------------|-------------|-----------|-----|
+| <img src="https://files.oaiusercontent.com/file-oPqvEfbbS7vyXSQyUTllxSjr?se=2123-10-18T19%3A43%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da58277c7-11b2-4193-9a0a-5493077c3eb6.png&sig=c%2BLgNbNrMDOTJgF7igNLUZMcxaBIzQSAzMyQ8GWd5qI%3D" width="100px"> | [Power Platform Licensing Wizard 🧙‍♂️](https://chat.openai.com/g/g-OfPiOrDNw-power-platform-licensing-wizard) | Your expert in Power Platform licensing complexities | By flowkify.com | [Link](https://chat.openai.com/g/g-OfPiOrDNw-power-platform-licensing-wizard) |
 
 
 
