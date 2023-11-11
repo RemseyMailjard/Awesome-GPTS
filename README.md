@@ -9,13 +9,12 @@ Please note, this repository is a community-driven project and may not list all 
 **Disclaimer: Users should exercise caution and evaluate the agents before use. Additionally, please note that some of these GPTs are still in the experimental test phase.**
 
 
+# Artificial Intelligence Tools for Legal Professionals
+
 | Image | GPT Model Name | Description | Developer | 
 |-------|----------------|-------------|-----------|
-| <img src="https://files.oaiusercontent.com/file-PJ0J7O6iBydEk2Y2Xn8UdeO6?se=2123-10-18T22%3A30%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLegalEagle%2520Majestic%2520Eagle%2520of%2520Justice%2520-%2520XIS10CIAL.png&sig=Oe/NMKK110sCZh/tt52DAxOXh0mAO2HKmlzy7toUZms%3D" width="100px"> | [LegalEagleAI](https://chat.openai.com/g/g-fQw1VgMXr-legaleagleai) | LegalEagleAI is an innovative artificial intelligence platform tailored for the legal industry. Designed to support legal professionals, it streamlines complex research, offers insightful analysis, and simplifies the creation of meticulous legal documents.  Your personal Paralegal! | By XIS10CIAL | 
+| <img src="https://files.oaiusercontent.com/file-PJ0J7O6iBydEk2Y2Xn8UdeO6?se=2123-10-18T22%3A30%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLegalEagle%2520Majestic%2520Eagle%2520of%2520Justice%2520-%2520XIS10CIAL.png" width="100px"> | [LegalEagleAI](https://chat.openai.com/g/g-fQw1VgMXr-legaleagleai) | LegalEagleAI is an innovative artificial intelligence platform tailored for the legal industry. Designed to support legal professionals, it streamlines complex research, offers insightful analysis, and simplifies the creation of meticulous legal documents.  Your personal Paralegal! | By XIS10CIAL |
 
-
-
-## Table of Contents
 
 **Category: Product Management**
 
@@ -23,13 +22,7 @@ Please note, this repository is a community-driven project and may not list all 
 |--------------|---------------|-----------------|
 | [AI Product Manager](https://lnkd.in/e8ry8FzX) | [Paul Johnson](https://www.linkedin.com/in/pauljohnson-data?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAn5VmIBQ1N_yP8_7h0ssdsLJxLYlGn4-g4&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BHgQyI52gQXi61qWdgU1ZSQ%3D%3D) | The AI Product Manager is designed to assist in the development of successful products by providing tailored guidance and support throughout the product development process, leveraging data and expertise to ensure success. |
 
-**Category: Product Management**
 
-| **GPT Name** | **Developer** | **Description** |
-|--------------|---------------|-----------------|
-| [AI Product Manager](https://lnkd.in/e8ry8FzX) | [Paul Johnson](https://www.linkedin.com/in/pauljohnson-data?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAn5VmIBQ1N_yP8_7h0ssdsLJxLYlGn4-g4&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BHgQyI52gQXi61qWdgU1ZSQ%3D%3D) | The AI Product Manager is designed to assist in the development of successful products by providing tailored guidance and support throughout the product development process, leveraging data and expertise to ensure success. |
-
-![AI Product Manager](https://files.oaiusercontent.com/file-3fKHVGOsiVLBUIvE4ZyL5bYS?se=2123-10-18T17%3A49%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D338d737a-31a9-4033-8f95-f9d6037ec31f.png&sig=IsZy89QwfZdMVNJ3q4qcR%2BanbfzBctDyiH0AdqcODVQ%3D)
 
 | Image | GPT Model Name | Description | Developer | 
 |-------|----------------|-------------|-----------|
