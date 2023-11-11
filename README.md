@@ -9,6 +9,9 @@ Please note, this repository is a community-driven project and may not list all 
 **Disclaimer: Users should exercise caution and evaluate the agents before use. Additionally, please note that some of these GPTs are still in the experimental test phase.**
 
 ## Table of Contents
+1. [Data Analyst GPT Models](#data-analyst-gpt-models)
+
+
 - [Cybersecurity GPT Models](#cybersecurity-gpt-models)
 - [Finance GPT Models](#finance-gpt-models)
 - [Healthcare GPT Models](#healthcare-gpt-models)
@@ -18,10 +21,14 @@ Please note, this repository is a community-driven project and may not list all 
 - [License](#license)
 - [Contact](#contact)
 
-## AI GPT Models
-| Model Name | Description | Developer |
-|------------|-------------|-----------|
-| [ATT&CK Mate](https://chat.openai.com/g/g-fCIE7hCLx-att-ck-mate) | Ask me anything about the ATT&CK Knowledge Base. | [Developer Name](#) |
+## Data Analyst GPT Models
+<a name="data-analyst-gpt-models"></a>
+| Model Name       | Description                                                                                         | Developer |
+|------------------|-----------------------------------------------------------------------------------------------------|-----------|
+| Data Analyst Pro | Comprehensive data analysis guidance, versatile project ideas, and an inclusive, interactive learning environment. | [Victoria Alexandra Emerson](https://www.linkedin.com/in/victoria-alexandra-emerson-9b8a17bb/) |
+
+
+
 ## Cybersecurity GPT Models
 | Model Name | Description | Developer |
 |------------|-------------|-----------|
