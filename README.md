@@ -10,6 +10,12 @@ Please note, this repository is a community-driven project and may not list all 
 
 ## Table of Contents
 
+**Category: Product Management**
+
+| **GPT Name** | **Developer** | **Description** |
+|--------------|---------------|-----------------|
+| [AI Product Manager](https://lnkd.in/e8ry8FzX) | [Paul Johnson](https://www.linkedin.com/in/pauljohnson-data?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAn5VmIBQ1N_yP8_7h0ssdsLJxLYlGn4-g4&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BHgQyI52gQXi61qWdgU1ZSQ%3D%3D) | The AI Product Manager is designed to assist in the development of successful products by providing tailored guidance and support throughout the product development process, leveraging data and expertise to ensure success. |
+
 
 | Image | GPT Model Name | Description | Developer | 
 |-------|----------------|-------------|-----------|
