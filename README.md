@@ -7,7 +7,7 @@ Please note, this repository is a community-driven project and may not list all 
 
 **Disclaimer: Users should exercise caution and evaluate the agents before use. 
 Additionally, please note that some of these GPTs are still in the experimental test phase.**
-![image](https://github.com/RemseyMailjard/awesome-gpts/assets/35072380/8ce0d2af-a90e-4259-870a-572834b4216b)
+
 
 ## Table of Contents
 - [Finance GPT Models](#finance-gpt-models)
