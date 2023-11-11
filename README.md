@@ -1,4 +1,5 @@
 # 😎 Awesome GPTs (Agents) built by the Community!
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome GPT models designed by the Community, organized by category. 
 This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information, and sample prompts.
