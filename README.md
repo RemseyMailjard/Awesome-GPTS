@@ -8,6 +8,13 @@ Please note, this repository is a community-driven project and may not list all 
 
 **Disclaimer: Users should exercise caution and evaluate the agents before use. Additionally, please note that some of these GPTs are still in the experimental test phase.**
 
+
+| Image | GPT Model Name | Description | Developer | 
+|-------|----------------|-------------|-----------|
+| <img src="https://files.oaiusercontent.com/file-PJ0J7O6iBydEk2Y2Xn8UdeO6?se=2123-10-18T22%3A30%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLegalEagle%2520Majestic%2520Eagle%2520of%2520Justice%2520-%2520XIS10CIAL.png&sig=Oe/NMKK110sCZh/tt52DAxOXh0mAO2HKmlzy7toUZms%3D" width="100px"> | [LegalEagleAI](https://chat.openai.com/g/g-fQw1VgMXr-legaleagleai) | LegalEagleAI is an innovative artificial intelligence platform tailored for the legal industry. Designed to support legal professionals, it streamlines complex research, offers insightful analysis, and simplifies the creation of meticulous legal documents.  Your personal Paralegal! | By XIS10CIAL | 
+
+
+
 ## Table of Contents
 
 **Category: Product Management**
