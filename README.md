@@ -1,10 +1,17 @@
-# Awesome GPT Models Based on ChatGPT
+# 😎 Awesome GPTs (Agents) build by the Community! ![image](https://github.com/RemseyMailjard/awesome-gpts/assets/35072380/0f2c504b-779a-4a54-9438-b4bad5f19d51)
 
 A curated list of awesome GPT models designed by the Community, organized by category. 
 This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information, and sample prompts.
 
+Please note, this repository is a community-driven project and may not list all existing GPT agents/ Contributions are welcome – feel free to add your own creations!
+
+**Disclaimer: Users should exercise caution and evaluate the agents before use. 
+Additionally, please note that some of these GPTs are still in the experimental test phase.**
+![image](https://github.com/RemseyMailjard/awesome-gpts/assets/35072380/8ce0d2af-a90e-4259-870a-572834b4216b)
+
 ## Table of Contents
 - [Finance GPT Models](#finance-gpt-models)
+- Cybersecurity GPT Models
 - [Healthcare GPT Models](#healthcare-gpt-models)
 - [Automotive GPT Models](#automotive-gpt-models)
 - [Usage Instructions](#usage-instructions)
