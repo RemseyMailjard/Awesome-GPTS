@@ -1,4 +1,4 @@
-# 😎 Awesome GPTs (Agents) build by the Community! ![image](https://github.com/RemseyMailjard/awesome-gpts/assets/35072380/0f2c504b-779a-4a54-9438-b4bad5f19d51)
+# 😎 Awesome GPTs (Agents) build by the Community! 
 
 A curated list of awesome GPT models designed by the Community, organized by category. 
 This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information, and sample prompts.
