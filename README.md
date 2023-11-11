@@ -24,8 +24,9 @@ Please note, this repository is a community-driven project and may not list all 
 
 | Image | Title | Description | Developer | URL |
 |-------|-------|-------------|-----------|-----|
-| ![Image](https://files.oaiusercontent.com/file-oPqvEfbbS7vyXSQyUTllxSjr?se=2123-10-18T19%3A43%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da58277c7-11b2-4193-9a0a-5493077c3eb6.png&sig=c%2BLgNbNrMDOTJgF7igNLUZMcxaBIzQSAzMyQ8GWd5qI%3D) | Power Platform Licensing Wizard 🧙‍♂️ | Your expert in Power Platform licensing complexities | By flowkify.com | [Link](https://chat.openai.com/g/g-OfPiOrDNw-power-platform-licensing-wizard) |
-| ![Image](https://files.oaiusercontent.com/file-gnIWHjb9LBNZoGf9A23BXE9A?se=2123-10-18T09%3A56%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da17f6e85-32af-4270-b6dc-e6e7d3b43ca5.png&sig=RR5D5KDF0zsHF6hCXXS%2BSgoYHQFGF5OBUs0JDkfw19s%3D) | Bookmark Buddy | Organizes bookmarks in browsers based on topics into folders. | By Skills4-IT | [Link](https://chat.openai.com/g/g-KcBr4qeuG-bookmark-buddy) |
+| <img src="https://files.oaiusercontent.com/file-oPqvEfbbS7vyXSQyUTllxSjr?se=2123-10-18T19%3A43%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da58277c7-11b2-4193-9a0a-5493077c3eb6.png&sig=c%2BLgNbNrMDOTJgF7igNLUZMcxaBIzQSAzMyQ8GWd5qI%3D" width="100px"> | Power Platform Licensing Wizard 🧙‍♂️ | Your expert in Power Platform licensing complexities | By flowkify.com | [Link](https://chat.openai.com/g/g-OfPiOrDNw-power-platform-licensing-wizard) |
+| <img src="https://files.oaiusercontent.com/file-gnIWHjb9LBNZoGf9A23BXE9A?se=2123-10-18T09%3A56%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da17f6e85-32af-4270-b6dc-e6e7d3b43ca5.png&sig=RR5D5KDF0zsHF6hCXXS%2BSgoYHQFGF5OBUs0JDkfw19s%3D" width="100px"> | Bookmark Buddy | Organizes bookmarks in browsers based on topics into folders. | By Skills4-IT | [Link](https://chat.openai.com/g/g-KcBr4qeuG-bookmark-buddy) |
+
 
 
 
