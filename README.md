@@ -26,6 +26,10 @@ Please note, this repository is a community-driven project and may not list all 
 | <img src="https://files.oaiusercontent.com/file-oPqvEfbbS7vyXSQyUTllxSjr?se=2123-10-18T19%3A43%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da58277c7-11b2-4193-9a0a-5493077c3eb6.png&sig=c%2BLgNbNrMDOTJgF7igNLUZMcxaBIzQSAzMyQ8GWd5qI%3D" width="100px"> | Power Platform Licensing Wizard 🧙‍♂️ | Your expert in Power Platform licensing complexities | By flowkify.com | [Link](https://chat.openai.com/g/g-OfPiOrDNw-power-platform-licensing-wizard) |
 
 
+| Image | [GPT Model Name](https://chat.openai.com/g/g-OfPiOrDNw-power-platform-licensing-wizard) | Description | Developer | URL |
+|-------|--------------------------------|-------------|-----------|-----|
+| <img src="https://files.oaiusercontent.com/file-oPqvEfbbS7vyXSQyUTllxSjr?se=2123-10-18T19%3A43%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da58277c7-11b2-4193-9a0a-5493077c3eb6.png&sig=c%2BLgNbNrMDOTJgF7igNLUZMcxaBIzQSAzMyQ8GWd5qI%3D" width="100px"> | Power Platform Licensing Wizard 🧙‍♂️ | Your expert in Power Platform licensing complexities | By flowkify.com | [Link](https://chat.openai.com/g/g-OfPiOrDNw-power-platform-licensing-wizard) |
+
 | Image | Title | Description | Developer | URL |
 |-------|-------|-------------|-----------|-----|
 | <img src="https://files.oaiusercontent.com/file-oPqvEfbbS7vyXSQyUTllxSjr?se=2123-10-18T19%3A43%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da58277c7-11b2-4193-9a0a-5493077c3eb6.png&sig=c%2BLgNbNrMDOTJgF7igNLUZMcxaBIzQSAzMyQ8GWd5qI%3D" width="100px"> | Power Platform Licensing Wizard 🧙‍♂️ | Your expert in Power Platform licensing complexities | By flowkify.com | [Link](https://chat.openai.com/g/g-OfPiOrDNw-power-platform-licensing-wizard) |
