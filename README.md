@@ -9,6 +9,14 @@ Please note, this repository is a community-driven project and may not list all 
 **Disclaimer: Users should exercise caution and evaluate the agents before use. Additionally, please note that some of these GPTs are still in the experimental test phase.**
 
 ## Table of Contents
+
+
+| Image | GPT Model Name | Description | Developer | 
+|-------|----------------|-------------|-----------|
+| <img src="https://files.oaiusercontent.com/file-3fKHVGOsiVLBUIvE4ZyL5bYS?se=2123-10-18T17%3A49%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D338d737a-31a9-4033-8f95-f9d6037ec31f.png&sig=IsZy89QwfZdMVNJ3q4qcR%2BanbfzBctDyiH0AdqcODVQ%3D" width="100px"> | [AI Product Manager](https://chat.openai.com/g/g-o1HPy1qR7-ai-product-manager) | Analyzes context to give detailed product advice. | By PAUL JOHNSON | 
+
+
+
 1. [Data Analyst GPT Models](#data-analyst-gpt-models)
 
 
