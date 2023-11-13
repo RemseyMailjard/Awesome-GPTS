@@ -34,10 +34,8 @@ They are there for specific use cases. **Disclaimer: Please note that some of th
 |-------|----------------|-------------|-----------|
 | <img src="https://files.oaiusercontent.com/file-724nc3PO7tKFaOUQbKuZqfqG?se=2123-10-18T21%3A22%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DGalactic-Navigator-Starship-Interface-XIS10CIAL-Custom_GPT_CodePilot.png&sig=SDp7vGyElAe4DvmP3EuvDwBHRr4jbYAb3etW9lIE8i4%3D" width="100px"> | [Custom GPT Development CodePilot](https://chat.openai.com/g/g-jcqiRyixs-custom-gpt-development-codepilot) | Advanced AI development platform for custom GPT creation, focusing on custom GPT, AI development, and continuous innovation. | By XIS10CIAL | 
 
-
+Over
 1. [Data Analyst GPT Models](#data-analyst-gpt-models)
-
-
 - [Cybersecurity GPT Models](#cybersecurity-gpt-models)
 - [Finance GPT Models](#finance-gpt-models)
 - [Healthcare GPT Models](#healthcare-gpt-models)
@@ -48,7 +46,6 @@ They are there for specific use cases. **Disclaimer: Please note that some of th
 - [Contact](#contact)
 
 ## Table of Contents
-
 
 **Category: Data Analyst GPT Models**
 
