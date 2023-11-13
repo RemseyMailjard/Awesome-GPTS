@@ -2,18 +2,16 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome GPT models designed by the Community, organized by category. 
-
-## What are GPTs? #
-GPTs are customized version of ChatGPT build with specific instructions, knowledge and skills given by a developer. They are there for specific use cases.
-
-This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information
-
+This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information.
 Please note, this repository is a community-driven project and may not list all existing GPT agents. 
 
-Contributions are welcome – feel free to add your own creations!
+Contributions are welcome! If you find a usefull GPT, ask for a pull request, and I will review it and add it to the list! 
 
-**Disclaimer: Users should exercise caution and evaluate the agents before use. Additionally, please note that some of these GPTs are still in the experimental test phase.**
+## What are GPTs? #
+GPTs are customized version of ChatGPT build with specific instructions, knowledge (files or API's) and skills given by a developer. 
+They are there for specific use cases.
 
+**Disclaimer: Please note that some of these GPTs are still in the experimental test phase.**
 
 # GPTs for Legal Professionals
 
