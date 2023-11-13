@@ -2,9 +2,15 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome GPT models designed by the Community, organized by category. 
-This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information, and sample prompts.
 
-Please note, this repository is a community-driven project and may not list all existing GPT agents. Contributions are welcome – feel free to add your own creations!
+# What are GPTs? #
+GPTs are customized version of ChatGPT build with specific instructions, knowledge and skills given by a developer. They are there for specific use cases.
+
+This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information
+
+Please note, this repository is a community-driven project and may not list all existing GPT agents. 
+
+Contributions are welcome – feel free to add your own creations!
 
 **Disclaimer: Users should exercise caution and evaluate the agents before use. Additionally, please note that some of these GPTs are still in the experimental test phase.**
 
@@ -90,8 +96,6 @@ Please note, this repository is a community-driven project and may not list all 
 | [SpamGuard Tutor](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor) | Spam detection expert and educator on spam prevention. | [Developer Name](#) |
 | [Squidshing](https://chat.openai.com/g/g-8JrlEnLEj-squidshing) | Analyzes emails for phishing risks. | [Developer Name](#) |
 | [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot) |
-
-
 
 
 
