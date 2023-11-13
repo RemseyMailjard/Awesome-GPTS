@@ -3,7 +3,7 @@
 
 A curated list of awesome GPT models designed by the Community, organized by category. 
 
-# What are GPTs? #
+## What are GPTs? #
 GPTs are customized version of ChatGPT build with specific instructions, knowledge and skills given by a developer. They are there for specific use cases.
 
 This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information
