@@ -1,16 +1,15 @@
 # 😎 Awesome GPTs (Agents) built by the Community!
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome GPT models designed by the Community, organized by category. 
+Here is A curated list of awesome GPT models designed by the Community, organized by category. 
 This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information.
 Please note, this repository is a community-driven project and may not list all existing GPT agents. 
 
 Contributions are welcome! If you find a usefull GPT, ask for a pull request, and I will review it and add it to the list! 
 
-## What are GPTs? #
+## What are GPTs? 
 GPTs are customized version of ChatGPT build with specific instructions, knowledge (files or API's) and skills given by a developer. 
-They are there for specific use cases.
-**Disclaimer: Please note that some of these GPTs are still in the experimental test phase.**
+They are there for specific use cases. **Disclaimer: Please note that some of these GPTs are still in the experimental test phase.**
 
 # GPTs for Legal Professionals
 
@@ -24,7 +23,6 @@ They are there for specific use cases.
 | **GPT Name** | **Developer** | **Description** |
 |--------------|---------------|-----------------|
 | [AI Product Manager](https://lnkd.in/e8ry8FzX) | [Paul Johnson](https://www.linkedin.com/in/pauljohnson-data?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAn5VmIBQ1N_yP8_7h0ssdsLJxLYlGn4-g4&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BHgQyI52gQXi61qWdgU1ZSQ%3D%3D) | The AI Product Manager is designed to assist in the development of successful products by providing tailored guidance and support throughout the product development process, leveraging data and expertise to ensure success. |
-
 
 
 | Image | GPT Model Name | Description | Developer | 
