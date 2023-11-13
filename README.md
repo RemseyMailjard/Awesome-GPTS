@@ -6,6 +6,8 @@ This list provides an overview of various specialized GPT models, including deta
 Please note, this repository is a community-driven project and may not list all existing GPT agents. 
 Contributions are welcome! If you find a usefull GPT, ask for a pull request, and I will review it and add it to the list! 
 
+If you find this usefull, give this repository a star so the community grows and the list grows even faster.
+
 ## What are GPTs? 
 GPTs are customized version of ChatGPT build with specific instructions, knowledge (files or API's) and skills given by a developer. 
 They are there for specific use cases. **Disclaimer: Please note that some of these GPTs are still in the experimental test phase.**
