@@ -10,7 +10,6 @@ Contributions are welcome! If you find a usefull GPT, ask for a pull request, an
 ## What are GPTs? #
 GPTs are customized version of ChatGPT build with specific instructions, knowledge (files or API's) and skills given by a developer. 
 They are there for specific use cases.
-
 **Disclaimer: Please note that some of these GPTs are still in the experimental test phase.**
 
 # GPTs for Legal Professionals
@@ -91,21 +90,15 @@ They are there for specific use cases.
 | [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot) |
 
 
-
 ## Finance GPT Models
 | Model Name | Description | Developer |
 |------------|-------------|-----------|
-| [GPT-Finance](https://model-url.com/finance) | Specialized in financial analysis and forecasts. | [Jan Jansen](https://www.linkedin.com/in/janjansen) |
 
 ## Healthcare GPT Models
 | Model Name | Description | Developer |
 |------------|-------------|-----------|
-| [GPT-Health](https://model-url.com/health) | Focused on medical diagnostics and health advice. | [Erika de Vries](https://www.linkedin.com/in/erikadevries) |
 
 ## Automotive GPT Models
 | Model Name | Description | Developer |
 |------------|-------------|-----------|
-| [GPT-Auto](https://model-url.com/auto) | Expertise in the automotive industry. | [Lukas Müller](https://www.linkedin.com/in/lukasmuller) |
 
-
-(Note: The table continues in a similar format for the remaining models. Developer names and LinkedIn profiles are placeholders and should be replaced with actual information.)
