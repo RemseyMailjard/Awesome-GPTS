@@ -1,7 +1,7 @@
-# 😎 Awesome GPTs (Agents) built by the Community!
+# 😎 Awesome GPTs built by the Community!
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Welcome to The Largest Collections of Awesome GPT models designed by the Community, organized by category. 
+Here is a large Collections of Awesome GPT models build by the Community, organized by category. 
 This list provides an overview of various specialized GPT models, including detailed descriptions, access links, developer information.
 Please note, this repository is a community-driven project and may not list all existing GPT agents. 
 Contributions are welcome! If you find a usefull GPT, ask for a pull request, and I will review it and add it to the list! 
