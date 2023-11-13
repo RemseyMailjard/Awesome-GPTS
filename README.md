@@ -9,21 +9,14 @@ Contributions are welcome! If you find a usefull GPT, ask for a pull request, an
 If you find this usefull, give this repository a star so the community grows and the list grows even faster.
 
 ## What are GPTs? 
-GPTs are customized version of ChatGPT build with specific instructions, knowledge (files or API's) and skills given by a developer. 
-They are there for specific use cases. **Disclaimer: Please note that some of these GPTs are still in the experimental test phase.**
+GPTs are customized version of ChatGPT build with specific instructions, knowledge (files or API's) and skills given by a developer. They are there for specific use cases. **Disclaimer: Please note that some of these GPTs are still in the experimental test phase.**
 
 ## GPT Models Categories
-- [Product Management](#product-management)
 - [Cyber Security](#cyber-security)
+- [Product Management](#product-management)
 - [Development](#development)
 - [Legal Professionals](#legal-professionals)
 - [Overige Categorieën](#overige-categorieën)
-
-## Product Management
-| GPT Name | Description | Developer |
-|----------|-------------|-----------|
-| [AI Product Manager](https://lnkd.in/e8ry8FzX) | Designed to assist in the development of successful products by providing tailored guidance and support throughout the product development process, leveraging data and expertise. | By [Paul Johnson](https://www.linkedin.com/in/pauljohnson-data) |
-
 
 ## Cybersecurity GPT Models
 | Model Name | Description | Developer |
@@ -54,6 +47,11 @@ They are there for specific use cases. **Disclaimer: Please note that some of th
 | [Squidshing](https://chat.openai.com/g/g-8JrlEnLEj-squidshing) | Analyzes emails for phishing risks. | [Developer Name](#) |
 | [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot) |
 
+
+## Product Management
+| GPT Name | Description | Developer |
+|----------|-------------|-----------|
+| [AI Product Manager](https://lnkd.in/e8ry8FzX) | Designed to assist in the development of successful products by providing tailored guidance and support throughout the product development process, leveraging data and expertise. | By [Paul Johnson](https://www.linkedin.com/in/pauljohnson-data) |
 
 ## Development
 | GPT Name | Description | Developer |
