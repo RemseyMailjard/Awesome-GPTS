@@ -12,8 +12,6 @@ They are there for specific use cases. **Disclaimer: Please note that some of th
 
 # GPT Models Overview
 
-Een overzicht van verschillende GPT-modellen, elk ontworpen voor specifieke doeleinden en categorieën.
-
 ## Inhoudsopgave
 - [Product Management](#product-management)
 - [Cyber Security](#cyber-security)
