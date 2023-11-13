@@ -10,9 +10,7 @@ Contributions are welcome! If you find a usefull GPT, ask for a pull request, an
 GPTs are customized version of ChatGPT build with specific instructions, knowledge (files or API's) and skills given by a developer. 
 They are there for specific use cases. **Disclaimer: Please note that some of these GPTs are still in the experimental test phase.**
 
-# GPT Models Overview
-
-## Inhoudsopgave
+## GPT Models Categories
 - [Product Management](#product-management)
 - [Cyber Security](#cyber-security)
 - [Development](#development)
