@@ -22,7 +22,7 @@ GPTs are customized version of ChatGPT build with specific instructions, knowled
 ## Teacher GPT Models
 | Model Name | Description | Developer |
 |------------|-------------|-----------|
-| [Meester Overhoren]('https://chat.openai.com/g/g-t3hNv4ZPz-meester-overhoren') | Nederlandse overhoor-GPT die jou over een onderwerp kan overhoren. Je kunt ook een bestand toevoegen waar je overhoord over wilt worden. | Jaarno Duursma Zoon (https://www.linkedin.com/in/jarnoduursma) |
+| [Meester Overhoren](https://chat.openai.com/g/g-t3hNv4ZPz-meester-overhoren) | Nederlandse overhoor-GPT die jou over een onderwerp kan overhoren. Je kunt ook een bestand toevoegen waar je overhoord over wilt worden. | [Jaarno Duursma Zoon](https://www.linkedin.com/in/jarnoduursma) |
 
 ## Cybersecurity GPT Models
 | Model Name | Description | Developer |
