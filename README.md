@@ -12,11 +12,17 @@ If you find this usefull, give this repository a star so the community grows and
 GPTs are customized version of ChatGPT build with specific instructions, knowledge (files or API's) and skills given by a developer. They are there for specific use cases. **Disclaimer: Please note that some of these GPTs are still in the experimental test phase.**
 
 ## GPT Models Categories
+- [Teacher](#teachers GPT)
 - [Cyber Security](#cyber-security)
 - [Product Management](#product-management)
 - [Development](#development)
 - [Legal Professionals](#legal-professionals)
 - [Overige Categorieën](#overige-categorieën)
+
+## Teacher GPT Models
+| Model Name | Description | Developer |
+|------------|-------------|-----------|
+| [Meester Overhoren]('https://chat.openai.com/g/g-t3hNv4ZPz-meester-overhoren') | Nederlandse overhoor-GPT die jou over een onderwerp kan overhoren. Je kunt ook een bestand toevoegen waar je overhoord over wilt worden. | Jaarno Duursma Zoon (https://www.linkedin.com/in/jarnoduursma) |
 
 ## Cybersecurity GPT Models
 | Model Name | Description | Developer |
