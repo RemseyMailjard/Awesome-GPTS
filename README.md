@@ -12,7 +12,7 @@ If you find this usefull, give this repository a star so the community grows and
 GPTs are customized version of ChatGPT build with specific instructions, knowledge (files or API's) and skills given by a developer. They are there for specific use cases. **Disclaimer: Please note that some of these GPTs are still in the experimental test phase.**
 
 ## GPT Models Categories
-- [Teacher](#teachers GPT)
+- [Teacher](#teacher)
 - [Cyber Security](#cyber-security)
 - [Product Management](#product-management)
 - [Development](#development)
